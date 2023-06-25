@@ -1,23 +1,36 @@
-import logo from './logo.svg';
 import './App.css';
+// import Counter from './Redux/ReduxData';
+// import CallSCompo from './Callback/CallSCompo';
+// import MouseOver from './HigherCompo/MouseOver';
+// import ContextData from './ContextApi/ContextData';
+// import ShowData from './ContextApi/Showdata';
+// import Api from './Api';
+// import ParentClass from './ClassComponent/ParentClass';
+// import ParentFunction from './FunctionalComponent/ParentFunction';
+// import LazyRender from './LazyLoading/LazyRender';
+// import Counter from './Reducer/Reducer';
+// import MemoExample from './memo/Memo';
+// import EffectExample from './useefect/useeffect';
+// import Ref from './Ref/Ref';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+    {/* <Api/> */}
+    {/* <ParentClass/> */}
+    {/* <ParentFunction/> */}
+    {/* <LazyRender/> */}
+    {/* <EffectExample/> */}
+    {/* <Counter/> */}
+    {/* <MemoExample/> */}
+    {/* <Ref/> */}
+    {/* <ContextData>
+    <ShowData/>
+    </ContextData> */}
+    {/* <CallSCompo/> */}
+    {/* <MouseOver/>   */}
+    {/* <Counter/> */}
+ 
     </div>
   );
 }
